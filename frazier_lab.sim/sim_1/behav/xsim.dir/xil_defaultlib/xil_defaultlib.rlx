@@ -1,0 +1,21 @@
+0.6
+2016.3
+Oct 10 2016
+19:46:48
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.sim/sim_1/behav/glbl.v,1476033524,verilog,,,,glbl,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sim_1/new/CPU_tb.v,1479111178,verilog,,,,CPU_tb,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/ALUControl.v,1481353358,verilog,,,,ALUControl,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/ALU_B_Mux.v,1481343847,verilog,,,,ALU_B_Mux,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/CPU.v,1481353358,verilog,,,,CPU,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/MIPSALU.v,1481316288,verilog,,,,MIPSALU,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/WN_Input_Mux.v,1481353358,verilog,,,,WN_Input_Mux,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/adder.v,1481193350,verilog,,,,adder,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/dataMux.v,1481358980,verilog,,,,dataMux,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/data_memory.v,1481343846,verilog,,,,data_memory,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/instruction_memory.v,1481362784,verilog,,,,instruction_memory,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/pcMux.v,1481343846,verilog,,,,pcMux,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/program_counter.v,1481193636,verilog,,,,program_counter,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/registerfile.v,1481355850,verilog,,,,regfile,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/shiftMux.v,1481190720,verilog,,,,ALU_A_Mux,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/shift_two_left.v,1481343847,verilog,,,,shift_two_left,,,,,,,,
+D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.srcs/sources_1/new/sign_extend.v,1481343847,verilog,,,,sign_extend,,,,,,,,

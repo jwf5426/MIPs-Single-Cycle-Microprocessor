@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sat Dec 10 05:33:00 2016
+# Process ID: 7480
+# Current directory: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.sim/sim_1/behav
+# Command line: wbtcv.exe -mode batch -source D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.sim/sim_1/behav/xsim.dir/CPU_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.sim/sim_1/behav\webtalk.jou
+#-----------------------------------------------------------
+source D:/Users/James/Box -notrace

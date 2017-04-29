@@ -1,0 +1,76 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Sat Dec 10 04:19:22 2016
+# Process ID: 24100
+# Current directory: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent25216 D:\Users\James\Box Sync\School\CMPEN 331\frazier_lab7\frazier_lab.xpr
+# Log file: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/vivado.log
+# Journal file: D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/frazier_lab.xpr}
+reset_run synth_1
+launch_runs synth_1
+wait_on_run synth_1
+launch_simulation
+open_wave_config D:/Users/James/Box
+open_wave_config Sync/School/CMPEN
+open_wave_config 331/frazier_lab7/Lab6Waveform.wcfg
+source CPU_tb.tcl
+open_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+restart
+run 40 ns
+reset_run synth_1
+launch_runs synth_1
+wait_on_run synth_1
+close_sim
+launch_simulation
+open_wave_config D:/Users/James/Box
+open_wave_config Sync/School/CMPEN
+open_wave_config 331/frazier_lab7/Lab6Waveform.wcfg
+source CPU_tb.tcl
+open_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+restart
+run all
+restart
+run 40 ns
+reset_run synth_1
+launch_runs synth_1
+wait_on_run synth_1
+close_sim
+launch_simulation
+open_wave_config D:/Users/James/Box
+open_wave_config Sync/School/CMPEN
+open_wave_config 331/frazier_lab7/Lab6Waveform.wcfg
+source CPU_tb.tcl
+restart
+run 40 ns
+open_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+restart
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+run 40 ns
+restart
+run 40 ns
+open_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+restart
+run 40 ns
+restart
+run 50 ns
+open_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+restart
+run 50 ns
+synth_design -rtl -name rtl_1
+launch_runs impl_1
+wait_on_run impl_1
+close_design
+open_run impl_1
+save_wave_config {D:/Users/James/Box Sync/School/CMPEN 331/frazier_lab7/Lab6Waveform.wcfg}
+close_sim
